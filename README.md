@@ -1,5 +1,9 @@
 # Analysis of Automobilization of Slovakia (2003-2024)
 
+**Goal**
+
+**Key Insights**
+
 <img width="1084" height="611" alt="Total Number of Passenger Cars (2003-2024)" src="https://github.com/user-attachments/assets/8a0cd031-b1d7-4d7b-8e94-9901aee88aff" />
 
 <img width="1096" height="611" alt="Yearly Increase in Passenger Cars (2004-2024)" src="https://github.com/user-attachments/assets/902efb6e-485e-4e35-9b10-cbb86dcc7c2e" />
