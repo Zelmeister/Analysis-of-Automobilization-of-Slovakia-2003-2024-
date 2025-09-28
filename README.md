@@ -2,7 +2,7 @@
 
 ## Goals
 
-#^ Analyze trends in the number of registered vehicles in Slovakia over the period of 2003-2024
+#^  Analyze trends in the number of registered vehicles in Slovakia over the period of 2003-2024
   
 • Identify possible underlying factors that are driving the change
 
