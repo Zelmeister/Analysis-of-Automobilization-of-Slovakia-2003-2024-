@@ -5,4 +5,4 @@ This is a project done using the Python script. It is an analysis of the level o
 
 The rest of the files are either inputs or outputs of the main file.  Important note: There are two interractive maps of Slovakia. To be able to view them, I recommend to use the Dash library within Jupyter Notebook.
 
-![Alt text](Cars per 100 inhabitants vs Disposable Income.png)
+<img width="1084" height="611" alt="Total Number of Passenger Cars (2003-2024)" src="https://github.com/user-attachments/assets/8a0cd031-b1d7-4d7b-8e94-9901aee88aff" />
