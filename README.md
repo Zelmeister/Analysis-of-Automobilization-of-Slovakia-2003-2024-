@@ -4,3 +4,5 @@ This is a project done using the Python script. It is an analysis of the level o
 "Custom_Project_Automobilization_of_SR.ipynb" is the main file containing the script. 
 
 The rest of the files are either inputs or outputs of the main file.  Important note: There are two interractive maps of Slovakia. To be able to view them, I recommend to use the Dash library within Jupyter Notebook.
+
+![Alt text](Total Number of Passenger Cars (2003-2024).png)
