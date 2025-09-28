@@ -15,6 +15,8 @@
 
 
 
+
+
 - The significant difference between years 2004 and 2005 indicates some administrative change in vehicle registration
 - 2009 most likely saw the aftermath of the 2008 financial crisis
 - A major decline is also visible over the Covid-19 period (2020-2021) followed by the start of the war in Ukraine (2022)
