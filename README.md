@@ -12,11 +12,7 @@
 - 
 
 <img width="1084" height="611" alt="Total Number of Passenger Cars (2003-2024)" src="https://github.com/user-attachments/assets/8a0cd031-b1d7-4d7b-8e94-9901aee88aff" />
-
-
-
-
-
+  
 - The significant difference between years 2004 and 2005 indicates some administrative change in vehicle registration
 - 2009 most likely saw the aftermath of the 2008 financial crisis
 - A major decline is also visible over the Covid-19 period (2020-2021) followed by the start of the war in Ukraine (2022)
