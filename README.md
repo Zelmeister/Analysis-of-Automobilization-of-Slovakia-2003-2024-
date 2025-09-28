@@ -1,6 +1,7 @@
 # Analysis of Automobilization of Slovakia (2003-2024)
 
 ## Goal
+• Identify and analyze trends in the number of registered vehicles in Slovakia over the period of 2003-2024, and to establish possible underlying factors that are driving the change.
 
 ## Key Insights
 
