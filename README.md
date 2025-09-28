@@ -6,6 +6,16 @@
   
 • Identify possible underlying factors that are driving the change
 
+Sub Lists in GFM(github-flavored-markdown) are done the ways represented below.
+
+- Item 1
+- Item 2
+- Item 3
+  - Sub Item 1
+  - Sub Item 2
+   
+#^ two spaces
+
 ## Key Insights
 
 <img width="1084" height="611" alt="Total Number of Passenger Cars (2003-2024)" src="https://github.com/user-attachments/assets/8a0cd031-b1d7-4d7b-8e94-9901aee88aff" />
