@@ -7,8 +7,9 @@
 
 ## Key Insights
 - Over the period of 2003-2024, the number of registered passenger cars in Slovakia increased by 152% (from 1.08 million to 2.72 million)
+- On average, the number of registered passenger cars increased by nearly 78,000 each year
 - 
-- 
+
 <img width="1084" height="611" alt="Total Number of Passenger Cars (2003-2024)" src="https://github.com/user-attachments/assets/8a0cd031-b1d7-4d7b-8e94-9901aee88aff" />
 
 <img width="1096" height="611" alt="Yearly Increase in Passenger Cars (2004-2024)" src="https://github.com/user-attachments/assets/902efb6e-485e-4e35-9b10-cbb86dcc7c2e" />
