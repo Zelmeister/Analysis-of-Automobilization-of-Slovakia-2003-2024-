@@ -57,11 +57,18 @@
   - The rest of Slovakia (average): 47 cars per 100 people
 - Moreover, the growing level of automobilization seems to spreading from the west to the east.
 <img width="1388" height="759" alt="Cars per 100 inhabitants by district in 2024 (map)" src="https://github.com/user-attachments/assets/0473f50c-34d7-4a77-b311-a29939d19e4d" />
+<br/>
+<br/>
+<br/>
 
-<img width="1388" height="771" alt="Change in Cars per 1000 inhabitants by district in 2020 (map)" src="https://github.com/user-attachments/assets/cf840752-c1a2-4276-bf00-99842ba44b00" />
-
-<img width="1388" height="771" alt="Change in Cars per 1000 inhabitants by district in 2021 (map)" src="https://github.com/user-attachments/assets/1c548911-98f6-4e0b-a66f-0ae0c3dcc95b" />
-
+## Change in the Number of Passenger Cars per 1000 Inhabitants by District (2022-2024)
+- In the recent years, the most significant increases in the number passenger cars have concentrated in the neighbouring districts of Bratislava:
+  - Senica District
+  - Malacky District
+  - Pezinok District
+  - Senec District
+  - Dunajská Streda District
+- An interesting phenomenon of increases in the number of passenger cars can be observed in the east of Slovakia, namely in the Sobrance District and to a lesser extent in the Michalovce District. My guess is that it might have to do with cars exported to Ukraine.l It has been a common practice for many Ukrainians to buy a car in a European country.
 <img width="1404" height="771" alt="Change in Cars per 1000 inhabitants by district in 2022 (map)" src="https://github.com/user-attachments/assets/080a67a8-e003-4cfe-96e3-1019ffec6478" />
 
 <img width="1375" height="761" alt="Change in Cars per 1000 inhabitants by district in 2023 (map)" src="https://github.com/user-attachments/assets/e4a4fd4b-bbcc-425e-a9d8-9312b9a41a7c" />
