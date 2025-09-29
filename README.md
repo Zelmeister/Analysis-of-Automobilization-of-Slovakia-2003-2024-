@@ -32,14 +32,23 @@
 
 - Interestingly, the only region that was significantly affected by the Covid-19 crisis in terms of a decrease in the number of passenger cars was the Bratislava Region. I see two possible explanations for this:
   - The Bratislava Region is highly urbanized, and thus accommodates many companies that own passenger cars. Theese cars might have become redundant, because of the lockdowns in 2021.
-  - The Bratislava Region also accommodates a large portion of population from other regions of Slovakia who regularly travel home on weekends. With lockdowns and home-office, the need for such travels might have significantly decreased.
+  - The Bratislava Region also accommodates a large portion of population from other regions of Slovakia who regularly travel home on weekends. With lockdowns and home office, the need for such travels might have significantly decreased.
 <img width="1084" height="611" alt="Cars per 100 People by Regions (2003-2024)" src="https://github.com/user-attachments/assets/27829772-70ad-4365-bc16-01df81608290" />
 <br/>
 <br/>
 <br/>
 
+- As off 2003, we can see that the Bratislava District dominates in terms of the number of passenger cars per 100 inhabitants
+  - The Bratislava District: 36 cars per 100 people
+  - The rest of Slovakia (average): 18 cars per 100 people
 <img width="1402" height="766" alt="Cars per 100 inhabitants by district in 2003 (map)" src="https://github.com/user-attachments/assets/f674d7ae-880e-498e-80e0-6403a794d80f" />
+<br/>
+<br/>
+<br/>
 
+- 21 years later in 2024, the trend remains, with the Bratislava leadining sificantly and the rest of Slovakia falling about 15 years behind the trend
+  - The Bratislava District: 76 cars per 100 people
+  - The rest of Slovakia (average): 47 cars per 100 people
 <img width="1388" height="759" alt="Cars per 100 inhabitants by district in 2024 (map)" src="https://github.com/user-attachments/assets/0473f50c-34d7-4a77-b311-a29939d19e4d" />
 
 <img width="1388" height="771" alt="Change in Cars per 1000 inhabitants by district in 2020 (map)" src="https://github.com/user-attachments/assets/cf840752-c1a2-4276-bf00-99842ba44b00" />
