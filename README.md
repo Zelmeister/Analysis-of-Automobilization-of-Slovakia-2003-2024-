@@ -13,11 +13,13 @@
 <img width="1084" height="611" alt="Total Number of Passenger Cars (2003-2024)" src="https://github.com/user-attachments/assets/8a0cd031-b1d7-4d7b-8e94-9901aee88aff" />
 <br/>
 <br/>
+<br/>
 
 - The significant difference between years 2004 and 2005 indicates some administrative change in vehicle registration.
 - 2009 most likely saw the aftermath of the 2008 financial crisis.
 - A major decline is also visible over the Covid-19 period (2020-2021) followed by the start of the war in Ukraine (2022).
 <img width="1096" height="611" alt="Yearly Increase in Passenger Cars (2004-2024)" src="https://github.com/user-attachments/assets/902efb6e-485e-4e35-9b10-cbb86dcc7c2e" />
+<br/>
 <br/>
 <br/>
 
@@ -26,11 +28,15 @@
 <img width="1098" height="611" alt="Yearly Change in Vehicles of Specific Categories (2004-2024)" src="https://github.com/user-attachments/assets/3f023978-fbb3-4103-8971-051849c10f2c" />
 <br/>
 <br/>
+<br/>
 
 - Interestingly, the only region that was significantly affected by the Covid-19 crisis in terms of a decrease in the number of passenger cars was the Bratislava Region. I see two possible explanations for this:
   - The Bratislava Region is highly urbanized, and thus accommodates many companies that own passenger cars. Theese cars might have become redundant, because of the lockdowns in 2021.
   - The Bratislava Region also accommodates a large portion of population from other regions of Slovakia who regularly travel home on weekends. With lockdowns and home-office, the need for such travels might have significantly decreased.
 <img width="1084" height="611" alt="Cars per 100 People by Regions (2003-2024)" src="https://github.com/user-attachments/assets/27829772-70ad-4365-bc16-01df81608290" />
+<br/>
+<br/>
+<br/>
 
 <img width="1402" height="766" alt="Cars per 100 inhabitants by district in 2003 (map)" src="https://github.com/user-attachments/assets/f674d7ae-880e-498e-80e0-6403a794d80f" />
 
