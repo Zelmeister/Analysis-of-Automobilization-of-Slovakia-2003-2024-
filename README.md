@@ -84,7 +84,7 @@
 <br/>
 
 ## Passenger Cars per 100 inhabitants vs Disposable Income
-- There seems to be a **direct link between** the number of passenger **cars** per 100 inhabitants of a region and the region's average **disposable income** per person
+- There seems to be a **direct link between** the number of passenger **cars** per 100 inhabitants of a region and the region's average **disposable income** per person.
 <img width="1079" height="611" alt="Cars per 100 inhabitants vs Disposable Income" src="https://github.com/user-attachments/assets/0ddefbb3-1997-4849-9b9b-c2136afd2e0e" />
 <br/>
 <br/>
