@@ -7,7 +7,7 @@
 ## Key Insights
 - Over the period of 2003-2024, the number of registered passenger cars in Slovakia increased by 152% (from 1.08 million to 2.72 million)
 - On average, the number of registered passenger cars increased by nearly 78,000 each year
-- Although the increase in the registered passenger cars was less dramatic during major crises (2008 financial crisis, Covid-19, war in Ukraine), not in a single year was there an actual decrease in the number of registered cars
+- Although the increase in the registered passenger cars was less dramatic during major crises (2008 financial crisis, Covid-19, war in Ukraine), not a single year was marked by an actual decrease
 - 
 
 <img width="1084" height="611" alt="Total Number of Passenger Cars (2003-2024)" src="https://github.com/user-attachments/assets/8a0cd031-b1d7-4d7b-8e94-9901aee88aff" />
@@ -18,7 +18,10 @@
 - 2009 most likely saw the aftermath of the 2008 financial crisis
 - A major decline is also visible over the Covid-19 period (2020-2021) followed by the start of the war in Ukraine (2022)
 <img width="1096" height="611" alt="Yearly Increase in Passenger Cars (2004-2024)" src="https://github.com/user-attachments/assets/902efb6e-485e-4e35-9b10-cbb86dcc7c2e" />
+<br/>
 
+- The number of vehicles such as buses, trailers, motorcycles and other small vehicles has been more-or-less stable over the years
+- The number of freight vehicles a tractors dropped significantly during the 2008 financial crisis and has not recovered ever since, with another significant drop in 2019
 <img width="1098" height="611" alt="Yearly Change in Vehicles of Specific Categories (2004-2024)" src="https://github.com/user-attachments/assets/3f023978-fbb3-4103-8971-051849c10f2c" />
 
 <img width="1084" height="611" alt="Cars per 100 People by Regions (2003-2024)" src="https://github.com/user-attachments/assets/27829772-70ad-4365-bc16-01df81608290" />
