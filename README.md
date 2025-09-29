@@ -10,11 +10,13 @@
 - Although the increase in the registered passenger cars was less dramatic during major crises (2008 financial crisis, Covid-19, war in Ukraine), not a single year was marked by an actual decrease.
 - 
 
+## Total Number of Passenger Cars
 <img width="1084" height="611" alt="Total Number of Passenger Cars (2003-2024)" src="https://github.com/user-attachments/assets/8a0cd031-b1d7-4d7b-8e94-9901aee88aff" />
 <br/>
 <br/>
 <br/>
 
+## Yearly Change in the Number of Passenger Cars
 - The significant difference between years 2004 and 2005 indicates some administrative change in vehicle registration.
 - 2009 most likely saw the aftermath of the 2008 financial crisis.
 - A major decline is also visible over the Covid-19 period (2020-2021) followed by the start of the war in Ukraine (2022).
@@ -23,6 +25,7 @@
 <br/>
 <br/>
 
+## The Number of Vehicles of Other Categories
 - The number of vehicles such as buses, trailers, motorcycles and other small vehicles has been more-or-less stable over the years.
 - The number of freight vehicles a tractors dropped significantly during the 2008 financial crisis and has not recovered ever since, with another significant drop in 2019.
 <img width="1098" height="611" alt="Yearly Change in Vehicles of Specific Categories (2004-2024)" src="https://github.com/user-attachments/assets/3f023978-fbb3-4103-8971-051849c10f2c" />
@@ -30,6 +33,7 @@
 <br/>
 <br/>
 
+## The Number of Passenger Cars by Region
 - Interestingly, the only region that was significantly affected by the Covid-19 crisis in terms of a decrease in the number of passenger cars was the Bratislava Region. I see two possible explanations for this:
   - The Bratislava Region is highly urbanized, and thus accommodates many companies that own passenger cars. Theese cars might have become redundant, because of the lockdowns in 2021.
   - The Bratislava Region also accommodates a large portion of population from other regions of Slovakia who regularly travel home on weekends. With lockdowns and home office, the need for such travels might have significantly decreased.
@@ -38,6 +42,7 @@
 <br/>
 <br/>
 
+## The Number of Passenger Cars per 100 Inhabitants by District (2003)
 - As off 2003, we can see that the Bratislava District dominates in terms of the number of passenger cars per 100 inhabitants
   - The Bratislava District: 36 cars per 100 people
   - The rest of Slovakia (average): 18 cars per 100 people
@@ -46,9 +51,11 @@
 <br/>
 <br/>
 
-- 21 years later in 2024, the trend remains, with the Bratislava leadining sificantly and the rest of Slovakia falling about 15 years behind the trend
+## The Number of Passenger Cars per 100 Inhabitants by District (2024)
+- 21 years later in 2024, the trend remains, with the Bratislava leading sifnicantly and the rest of Slovakia falling about 15 years behind the trend
   - The Bratislava District: 76 cars per 100 people
   - The rest of Slovakia (average): 47 cars per 100 people
+- Moreover, the growing level of automobilization seems to spreading from the west to the east.
 <img width="1388" height="759" alt="Cars per 100 inhabitants by district in 2024 (map)" src="https://github.com/user-attachments/assets/0473f50c-34d7-4a77-b311-a29939d19e4d" />
 
 <img width="1388" height="771" alt="Change in Cars per 1000 inhabitants by district in 2020 (map)" src="https://github.com/user-attachments/assets/cf840752-c1a2-4276-bf00-99842ba44b00" />
