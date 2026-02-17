@@ -8,7 +8,7 @@
 - Over the period of 2003-2024, the number of registered **passenger cars in Slovakia increased by 152%** (from 1.08 million to 2.72 million).
 - On average, the number of registered **passenger cars increased by nearly 78,000 each year**.
 - Although the increase in the registered passenger cars was **less dramatic during major crises** (2008 financial crisis, Covid-19, war in Ukraine), **not a single year was marked by an actual decrease**.
-- **Automatization of Slovakia spreads from west to east**, with the Bratislava District (76 cars / 100 people) being about 15 years ahead of the rest of Slovakia (47 cars / 100 people).
+- **Automobilization of Slovakia spreads from west to east**, with the Bratislava District (76 cars / 100 people) being about 15 years ahead of the rest of Slovakia (47 cars / 100 people).
 - A single **most significant factor** driving the trend seems to be the **disposable income**; however, household size, unemployment rate and percentage of urban population are also correlated with the number of passenger cars.
 
 ## Recommendations
