@@ -1,8 +1,8 @@
-# Analysis of Automobilization of Slovakia (2003-2024) in Python (Jupyter Notebook)
+# Analysis of Automobilization of Slovakia (2003-2024)
 
 ## Goals
-- Analyze trends in the number of registered vehicles in Slovakia over the period of 2003-2024
-- Identify possible underlying factors that are driving the change
+- Analyze trends in the number of registered vehicles in Slovakia over the period of 2003-2024.
+- Identify possible underlying factors that are driving the change.
 
 ## Key Insights
 - Over the period of 2003-2024, the number of registered **passenger cars in Slovakia increased by 152%** (from 1.08 million to 2.72 million).
@@ -10,6 +10,9 @@
 - Although the increase in the registered passenger cars was **less dramatic during major crises** (2008 financial crisis, Covid-19, war in Ukraine), **not a single year was marked by an actual decrease**.
 - **Automatization of Slovakia spreads from west to east**, with the Bratislava District (76 cars / 100 people) being about 15 years ahead of the rest of Slovakia (47 cars / 100 people).
 - A single **most significant factor** driving the trend seems to be the **disposable income**; however, household size, unemployment rate and percentage of urban population are also correlated with the number of passenger cars.
+
+## Recommendations
+
 
 ## Total Number of Passenger Cars
 <img width="1084" height="611" alt="Total Number of Passenger Cars (2003-2024)" src="https://github.com/user-attachments/assets/8a0cd031-b1d7-4d7b-8e94-9901aee88aff" />
@@ -110,8 +113,8 @@
 
 ## Passenger Cars per 100 inhabitants vs Urban population
 - A **slight positive link** can be observed **between** the portion of district's **population living in urban areas and** the number of **cars per 100 people**
-- The expection was that rural regions might have a greater need for cars in order to be able to travel to cities. However, again the contrary is true.
-- This is probably due to **more companies** that being **concentrated in urban areas**. Not only do these companies bring in employment and income, they also tend to own cars themselves.
+- The expectation was that rural regions might have a greater need for cars in order to be able to travel to cities. However, again the contrary is true.
+- This is probably due to **more companies** being **concentrated in urban areas**. Not only do these companies bring in employment and income, they also tend to own cars themselves.
 <img width="1084" height="611" alt="Cars per 100 inhabitants vs Urban population" src="https://github.com/user-attachments/assets/a4dcd0e5-8f1e-49ea-bde9-f0fe809e6596" />
 <br/>
 <br/>
